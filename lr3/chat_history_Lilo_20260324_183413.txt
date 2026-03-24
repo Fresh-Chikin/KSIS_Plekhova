@@ -1,0 +1,12 @@
+[SESSION START] Chat session started by Lilo at 10.0.0.3:9003
+[2026-03-24 18:34:13] Chat session started by Lilo (10.0.0.3)
+[2026-03-24 18:28:12] Chat session started by Liza (10.0.0.1)
+[2026-03-24 18:28:36] [Liza (10.0.0.1)]: Hello, I am Liza
+[2026-03-24 18:32:01] Chat session started by Dan (10.0.0.2)
+[2026-03-24 18:32:16] [Dan (10.0.0.2)]: qwerty
+[2026-03-24 18:35:00] Chat session started by Pen (10.0.0.4)
+[2026-03-24 18:39:13] [Lilo (10.0.0.3)]: the weather is good
+[2026-03-24 18:39:18] Dan (10.0.0.2) left the chat
+[2026-03-24 18:40:11] Lilo (10.0.0.3) left the chat
+[SESSION END] Chat session ended at 2026-03-24 18:40:11
+============================================================
